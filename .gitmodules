@@ -1,0 +1,4 @@
+[submodule "dorsaf/autoparts"]
+	path = dorsaf/autoparts
+	url = git@github.com:dorsaf/autoparts.git
+	branch = master
