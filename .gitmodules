@@ -2,3 +2,7 @@
 	path = dorsaf/autoparts
 	url = git@github.com:dorsaf/autoparts.git
 	branch = master
+[submodule "diragri_addons"]
+	path = diragri_addons
+	url = git@github.com:dorsaf/diragri_addons.git
+	branch = master
